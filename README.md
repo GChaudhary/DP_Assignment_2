@@ -7,14 +7,16 @@ https://community.topcoder.com/stat?c=problem_statement&pm=1259
   
 ### Solution -  
 The 'output' consists of the test cases as described in the problem statement.  
-(snapshot of output attached here)
+![picture](Output_Problem #1.jpg)  
 <br />
   
 ## Problem 2  
 'Avoid Roads' problem  
 https://community.topcoder.com/stat?c=problem_statement&pm=1889  
-  
+
 ### Solution -  
+The output consists of standar test cases as described in the problem statement.  
+![picture](Output_Problem #2.jpg)  
 <br />  
   
 ## Problem 3  
@@ -22,5 +24,5 @@ https://community.topcoder.com/stat?c=problem_statement&pm=1889
 https://www.codechef.com/problems/D2/  
   
 ### Solution -  
-The 'output' consists of the standard input as in "CodeChef" problems  
-(a snapshot of accepted answer is attached)  
+The output has been successfully accepted on CodeChef.  
+![picture]('Output_Problem #3.jpg')  
