@@ -5,24 +5,24 @@
 'ZigZag' problem  
 https://community.topcoder.com/stat?c=problem_statement&pm=1259  
   
-### Solution -  
+#### Solution -  
 The 'output' consists of the test cases as described in the problem statement.  
-![picture](Output_Problem #1.jpg)  
+![picture](Output_Problem_1.jpg)  
 <br />
   
 ## Problem 2  
 'Avoid Roads' problem  
 https://community.topcoder.com/stat?c=problem_statement&pm=1889  
 
-### Solution -  
+#### Solution -  
 The output consists of standar test cases as described in the problem statement.  
-![picture](Output_Problem #2.jpg)  
+![picture](Output_Problem_2.jpg)  
 <br />  
   
 ## Problem 3  
 'Lucky Draw' problem  
 https://www.codechef.com/problems/D2/  
   
-### Solution -  
+#### Solution -  
 The output has been successfully accepted on CodeChef.  
-![picture]('Output_Problem #3.jpg')  
+![picture]('Output_Problem_3.jpg')  
