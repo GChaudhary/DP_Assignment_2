@@ -7,14 +7,15 @@ https://community.topcoder.com/stat?c=problem_statement&pm=1259
   
 ### Solution -  
 The 'output' consists of the test cases as described in the problem statement.  
-(snapshot of output attached here)  
-
+(snapshot of output attached here)
+<br />
+  
 ## Problem 2  
 'Avoid Roads' problem  
 https://community.topcoder.com/stat?c=problem_statement&pm=1889  
   
 ### Solution -  
-  
+<br />  
   
 ## Problem 3  
 'Lucky Draw' problem  
