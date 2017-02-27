@@ -25,4 +25,4 @@ https://www.codechef.com/problems/D2/
   
 #### Solution -  
 The output has been successfully accepted on CodeChef.  
-![picture]('Output_Problem_3.jpg')  
+![picture](Output_Problem_3.jpg)  
